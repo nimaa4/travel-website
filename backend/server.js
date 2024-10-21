@@ -11,7 +11,7 @@ app.options( '*' , cors())
 
 //DB Connection
 mongoose.connect(
-    "mongodb+srv://nihmatulain2003:XhdLaTIOASswU22o@cluster0.0thuxir.mongodb.net/test"
+    "mongodb+srv://******************@cluster0.0thuxir.mongodb.net/test"
 ).then(()=>{
     console.log("Data is connected successfully");
 })
